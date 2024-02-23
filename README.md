@@ -1,6 +1,6 @@
 # Programming-variety
 This repository will contain some stuff I'll be working on like:
-- Data structures
+- Data structures (Mostly trees like bst, avl, b, splay)
 - Algorithms
 - Programming problems
 
