@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-
+//works for finding coprime integers
 int gcd(int a, int b){
 	while(a%b){
 		int rem = a%b;
