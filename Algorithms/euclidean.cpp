@@ -12,7 +12,7 @@ int gcd(int a, int b){
 	}
 
 int main(){
-	int test = gcd(8,9);
+	int test = gcd(8,8);
 	cout<<test<<"\n";
 	
 	}
