@@ -5,5 +5,5 @@ def sumMultiples(n):
             sum+=i
     return sum
 
-print(sumMultiples(1000))
+print(sumMultiples(20))
         
